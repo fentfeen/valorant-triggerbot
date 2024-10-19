@@ -1,0 +1,9 @@
+{
+    "trigger_hotkey": "0x06",
+    "base_delay":0,
+    "trigger_delay":0,
+    "color_tolerance": 50,
+    "always_enabled":false,
+    "hide_console":false,
+	"grab_zone":5
+}
