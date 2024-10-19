@@ -5,10 +5,16 @@ OPTIONAL STEPS IF YOU ARENT FEELING SAFE:
 1. Temp Spoof ur system with a spoofer
 2. Change account
 
+
+
+
 SETUP:
 
-1. Change enemy outline to purple
-2. Set as a shoot keybind the letter "K"
+1. Change enemy highlight colour to purple
+2. Add "K" as a secondary shoot bind
+
+
+
 
 STEPS TO RUN:
 
