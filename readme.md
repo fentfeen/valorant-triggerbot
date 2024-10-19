@@ -20,6 +20,5 @@ STEPS TO RUN:
 
 3. Try TriggerBot in practice (default keybind is XButton2, u can change it in config.json, u need to use virtual key codes
 [https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes])
-https://infostart.ru/upload/iblock/4a9/4a937b76379f913824150faeddf7e2db.png
 
 4. Play and enjoy.                     
