@@ -12,19 +12,14 @@ SETUP:
 
 STEPS TO RUN:
 
-{all of these obviously in a cmd duh}
+(run start.bat to skip step 1 and 2)
 
-0.9 You can also use the start.bat now
+1. Run "port.py" {use another cmd to open backpack.py later}
+                                                            
+2. Run "backpack.py" (name chosen cuz it kool
 
-1. Run "port.py" {use another cmd to open backpack.py later}--|
-                                                              |
-2. Run "backpack.py" (name chosen cuz it kool)----------------|
-			        ------------------------------|
-                               |
-                         or run start.bat
-
-3. Try TriggerBot in practice (default keybind is XButton1, u can change it in config.json, u need to use virtual key codes 
+3. Try TriggerBot in practice (default keybind is XButton2, u can change it in config.json, u need to use virtual key codes
 [https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes])
-
+https://infostart.ru/upload/iblock/4a9/4a937b76379f913824150faeddf7e2db.png
 
 4. Play and enjoy.                     
